@@ -1,0 +1,11 @@
+spring:
+  data:
+    neo4j:
+      uri: bolt://localhost:7687
+      username: neo4j
+      password: 123456
+      open-in-view: false
+
+
+###Neo4j图形数据库后台管理地址：http://localhost:7474/browser/
+###Neo4j图形数据库连接地址：bolt://localhost:7687
